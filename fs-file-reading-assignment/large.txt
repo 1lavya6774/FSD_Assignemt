@@ -1,0 +1,2 @@
+=This is a sample large text file used to demonstrate
+synchronous and asynchronous file reading in Node.js.
